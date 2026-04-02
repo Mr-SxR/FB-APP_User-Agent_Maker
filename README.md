@@ -35,9 +35,9 @@ Repeat as many times as needed
 
 ```bash
 cd $HOME
-rm -rf Make_Ua
-git clone --depth=1 https://github.com/Mr-SxR/Make_Ua.git
-cd Make_Ua
+rm -rf FB-APP_User-Agent_Maker
+git clone --depth=1 https://github.com/Mr-SxR/FB-APP_User-Agent_Maker.git
+cd FB-APP_User-Agent_Maker
 git pull
 python MAKE_UA.py
 ```
@@ -53,7 +53,7 @@ python MAKE_UA.py
 
 ## 📬 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sxr.404)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sifathub)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801858094178)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sifathub)
 
